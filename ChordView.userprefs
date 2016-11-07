@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1D939530-C573-4867-B43C-8C78CAE8E04E}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/BNLalbelRenderer.cs">
+    <Files>
+      <File FileName="ChordView/App.xaml.cs" Line="13" Column="3" />
+      <File FileName="ChordView/ISQLite.cs" Line="10" Column="1" />
+      <File FileName="ChordView/DataModels/DataProvider.cs" Line="12" Column="25" />
+      <File FileName="ChordView/Views/AddToFavPage.cs" Line="9" Column="1" />
+      <File FileName="ChordView/Views/FavouritesView.cs" Line="11" Column="1" />
+      <File FileName="ChordView/Views/MainViewPage.cs" Line="11" Column="1" />
+      <File FileName="ChordView/Views/SongAllSongView.cs" Line="3" Column="1" />
+      <File FileName="ChordView/Views/SongByAlbumView.cs" Line="2" Column="1" />
+      <File FileName="ChordView/Views/SongByArtistView.cs" Line="2" Column="1" />
+      <File FileName="ChordView/Views/SongDetailView.cs" Line="3" Column="1" />
+      <File FileName="ChordView/Views/SongFavouriteView.cs" Line="2" Column="1" />
+      <File FileName="ChordView/Views/SongUpdateView.cs" Line="2" Column="1" />
+      <File FileName="ChordView/Views/TransKeyPicker.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="28" Column="48" />
+      <File FileName="iOS/SQLite_iOS.cs" Line="13" Column="2" />
+      <File FileName="Droid/MainActivity.cs" Line="29" Column="4" />
+      <File FileName="Droid/SQLite_Android.cs" Line="12" Column="2" />
+      <File FileName="Droid/ListButtonRenderer.cs" Line="9" Column="26" />
+      <File FileName="Droid/BNLalbelRenderer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChordView.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C5084651-557B-49DB-AE22-AE96EBEB3081" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChordView.Droid PreferredExecutionTarget="Android.And2" />
+</Properties>
